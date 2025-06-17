@@ -9,7 +9,7 @@ on:
       region:
         description: "AWS Region"
         required: true
-        default: "us-east-1"
+        default: ""
 
 jobs:
   deploy:
